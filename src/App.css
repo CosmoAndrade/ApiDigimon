@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+ gap: 15px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.App img{
+  width: 350px;
+  height: 350px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+.App h2{
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.App p {
+  text-align: center;
+}
+
